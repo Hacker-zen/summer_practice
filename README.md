@@ -1,8 +1,12 @@
 # summer_practice
 A social media website
-#Intro
+
+
+# Intro
 The Website is a cutting-edge platform developed using the MERN (MongoDB, Express, React, Node.js) stack, along with Tailwind CSS. It offers users a dynamic and immersive experience, enabling them to upload photos, modify them, and search for specific posts using hashtags or descriptions. With its advanced features, including JWT authentication and user login checks, this project ensures a secure and seamless social media experience. The website showcases modern UI/UX designs, providing users with an aesthetically pleasing and intuitive interface.
-#Features 
+
+
+# Features 
 1.Photo Upload and Modification: Users can effortlessly upload their photos to the platform, allowing them to showcase their creativity and share their visual content with others. Additionally, the website provides tools for modifying and enhancing the uploaded images, empowering users to personalize their posts.
 
 2.Advanced Search Functionality: The social media website offers an efficient search feature that allows users to find specific posts using hashtags or descriptions. This functionality enhances discoverability and promotes engagement within the platform.
